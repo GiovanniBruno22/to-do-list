@@ -1,0 +1,20 @@
+body {
+    background-color: #333;
+    color: white;
+}
+
+h1 {
+    font-size: 5vh;
+}
+
+
+.centered {
+    text-align: center;
+    color: white;
+    font-size: 3vh;
+}
+
+.left {
+    text-align: left;
+    font-size: 3vh;
+}
